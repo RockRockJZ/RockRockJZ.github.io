@@ -1,0 +1,4 @@
+%version-setting:KJS1.0.0%
+%%%if%%%-&&&-[t>1],if true,go function(){
+re = 1
+}
